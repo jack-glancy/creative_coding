@@ -6,7 +6,7 @@ from kivy.uix.boxlayout import BoxLayout
 from kivy.lang import Builder
 from kivy.uix.label import Label
 from kivy.properties import StringProperty
-import overview2 as ovr
+import overview as ovr
 import airp as air
 import diet_options as diet
 from kivy.uix.textinput import TextInput
